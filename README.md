@@ -1,27 +1,48 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<!-- ================== ULTRA-ELITE HACKER README ================== -->
+<!-- Put this in: github.com/islamSalem78/islamSalem78/README.md -->
 
-###
+<p align="center">
+  <img width="920" alt="neon-header" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFE1,100:001F3F&height=200&section=header&text=Islam%20Mohammed%20⚡%20Jr.%20Pentester&fontSize=40&fontColor=FFFFFF&animation=fadeIn"/>
+</p>
 
-<p align="left">My name is Islam Mohammed and I'm a Jr Pentest, from EGYPT </p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=800&color=00FFE1&center=true&vCenter=true&width=900&lines=Hey,+I'm+Islam+Mohammed;Jr.+Pentester+•+Bug+Hunter;Exploit+Development+Learner;Hack+to+Learn,+Report+to+Protect" alt="Typing SVG" />
+</h1>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Exploit Development <br>🎯 Goals: become a Senior Pentest<br>🎲 Fun fact: Chess Pro</p>
-
-
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=islamSalem78&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=islamSalem78&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=islamSalem78&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://img.shields.io/badge/ROLE-Jr.%20Pentester-%2300FFAA?style=for-the-badge&logo=hackthebox" />
+  <img src="https://img.shields.io/badge/FOCUS-Exploit%20Development-%23FF7A59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LOCATION-Egypt-%2300C2FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-Active%20%7C%20Always%20Learning-%23FF00FF?style=for-the-badge" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=islamSalem78&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## ⚡ About Me
+> **“Hack to learn. Report to protect.”**
 
-###
+- 🕵️ Jr. Pentester focused on **Web / Infrastructure / Exploit Dev**  
+- 💣 Currently learning **Exploit Development**  
+- 🧠 Passionate about **Red Teaming & Vulnerability Research**  
+- ♟️ Fun fact: I'm a **Chess addict**
+
+---
+
+## 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,php,c,bash,powershell,aws,cloudflare,docker,kubernetes,git,github,linux,arduino&perline=8" />
+</p>
+
+---
+
+## 🕶️ Terminal Snapshot
+```bash
+┌──(islamSalem78㉿github)-[~]
+└─$ whoami
+> Islam Mohammed
+
+└─$ skills
+> Web Pentest, Exploit Dev, Python, Bash, PowerShell, Automation
+
+└─$ motto
+> "Hack to learn. Report to protect."
