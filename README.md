@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=800&color=9AE6FF&center=true&vCenter=true&width=900&lines=Hey,+I'm+Islam+Mohammed;Jr.+Pentester+•+Bug+Hunter;Web+Pentest+%26+Exploit+Dev;Hack+to+Learn,+Report+to+Protect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=800&color=39FF14&center=true&vCenter=true&width=900&lines=Hey,+I'm+Islam+Mohammed;Jr.+Pentester+•+Bug+Hunter;Web+Pentest+%26+Exploit+Dev" alt="Typing SVG" />
 </h1>
 
 
