@@ -9,8 +9,6 @@
 💻 Junior **Penetration Tester** & **Bug Hunter**  
 🧠 Focused on **Web Pentesting** + **Exploit Development**  
 🎯 Goal → Become a **Senior Pentester**  
-⚔️ Mindset → *“Hack to Learn — Defend with Skill”*  
-💬 Always exploring new attack vectors and evasion techniques.  
 
 ---
 
