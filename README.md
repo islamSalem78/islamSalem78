@@ -2,8 +2,9 @@
 <!-- Put this in: github.com/islamSalem78/islamSalem78/README.md -->
 
 <p align="center">
-  <img width="920" alt="black-header" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0a0a&height=200&section=header&text=Islam%20Mohammed%20⚡%20Jr.%20Pentester&fontSize=40&fontColor=9AE6FF&animation=fadeIn"/>
+  <img width="920" alt="black-header" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a0a0a&height=200&section=header&text=Islam%20Mohammed%20⚡%20Jr.%20Pentester&fontSize=40&fontColor=39FF14&animation=fadeIn"/>
 </p>
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=800&color=39FF14&center=true&vCenter=true&width=900&lines=Hey,+I'm+Islam+Mohammed;Jr.+Pentester+•+Bug+Hunter;Web+Pentest+%26+Exploit+Dev" alt="Typing SVG" />
