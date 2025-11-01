@@ -1,37 +1,46 @@
-<!-- =================== DARK HACKER ELITE README (fixed images) =================== -->
-<!-- Paste into: github.com/islamSalem78/islamSalem78/README.md -->
+<!-- ================== ULTRA-ELITE HACKER README ================== -->
+<!-- Put this in: github.com/islamSalem78/islamSalem78/README.md -->
 
 <p align="center">
-  <!-- reliable dynamic header -->
-  <img width="100%" alt="dark-neon" src="https://capsule-render.vercel.app/api?type=waving&color=0:001218,100:001F3F&height=220&section=header&text=Islam%20Mohammed%20⚡%20Jr.%20Pentester&fontSize=40&fontColor=FFFFFF&animation=twinkle" />
+  <img width="920" alt="neon-header" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFE1,100:001F3F&height=200&section=header&text=Islam%20Mohammed%20⚡%20Jr.%20Pentester&fontSize=40&fontColor=FFFFFF&animation=fadeIn"/>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=600&color=00FFCC&width=900&lines=NEON+OPERATOR+ONLINE;Hey,+I'm+Islam+Mohammed;Jr.+Pentester+•+Bug+Hunter" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=800&color=00FFE1&center=true&vCenter=true&width=900&lines=Hey,+I'm+Islam+Mohammed;Jr.+Pentester+•+Bug+Hunter;Exploit+Development+Learner;Hack+to+Learn,+Report+to+Protect" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ROLE-Jr.%20Pentester-%2300FFAA?style=for-the-badge&logo=shield" alt="role" />
-  <img src="https://img.shields.io/badge/FOCUS-Web%20Pentest%20%7C%20Exploit%20Dev-%23FF5364?style=for-the-badge" alt="focus" />
-  <img src="https://img.shields.io/badge/STYLE-Dark%20Neon-%23000?style=for-the-badge" alt="style" />
-  <img src="https://img.shields.io/badge/ETHIC-Responsible%20Disclosure-%2300C2FF?style=for-the-badge" alt="ethic"/>
+  <img src="https://img.shields.io/badge/ROLE-Jr.%20Pentester-%2300FFAA?style=for-the-badge&logo=hackthebox" />
+  <img src="https://img.shields.io/badge/FOCUS-Exploit%20Development-%23FF7A59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LOCATION-Egypt-%2300C2FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-Active%20%7C%20Always%20Learning-%23FF00FF?style=for-the-badge" />
 </p>
 
 ---
 
-## ✦ Quick Pitch
-I hunt, reproduce and responsibly disclose vulnerabilities. Focused on **Web Application Pentesting** and **Exploit Development** — I build educational PoCs, labs, and automation that help defenders patch real issues.
+## ⚡ About Me
+> **“Hack to learn. Report to protect.”**
+
+- 🕵️ Jr. Pentester focused on **Web / Infrastructure / Exploit Dev**  
+- 💣 Currently learning **Exploit Development**  
+- 🧠 Passionate about **Red Teaming & Vulnerability Research**  
+- ♟️ Fun fact: I'm a **Chess addict**
 
 ---
 
-## 🕶️ Dark Terminal — Live Snapshot
+## 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,php,c,bash,powershell,aws,cloudflare,docker,kubernetes,git,github,linux,arduino&perline=8" />
+</p>
+
+---
+
+## 🕶️ Terminal Snapshot
 ```bash
-┌──(islamSalem78㉿neon)-[~]
+┌──(islamSalem78㉿github)-[~]
 └─$ whoami
 > Islam Mohammed
 
-└─$ focus
-> Web Pentest, Exploit Dev, Automation, Recon, CTF
+└─$ skills
+> Web Pentest, Exploit Dev, Python, Bash, PowerShell, Automation
 
-└─$ motto
-> "Hack to learn. Report to protect."
