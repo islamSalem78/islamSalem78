@@ -1,7 +1,7 @@
 <!-- ⚡ Elite Dark v2 — Hacker Edition by Islam Mohammed -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=1000&color=00E6E6&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Islam+Mohammed;Jr.+Pentester+%7C+Bug+Hunter;Web+Pentest+%26+Exploit+Dev;%2C" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=1000&color=00E6E6&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Islam+Mohammed;Jr.+Pentester+%7C+Bug+Hunter;Web+Pentest+%26+Exploit+Dev" alt="Typing SVG" />
 
 ---
 
