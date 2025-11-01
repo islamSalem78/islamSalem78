@@ -2,7 +2,7 @@
 <!-- Put this in: github.com/islamSalem78/islamSalem78/README.md -->
 
 <p align="center">
-  <img width="920" alt="black-header" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:050505&height=200&section=header&text=Islam%20Mohammed%20⚡%20Jr.%20Pentester&fontSize=40&fontColor=39FF14&animation=fadeIn"/>
+  <img width="920" alt="black-header" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:050505&height=200&section=header&text=Islam%20Mohammed%20&fontSize=40&fontColor=39FF14&animation=fadeIn"/>
 </p>
 
 
