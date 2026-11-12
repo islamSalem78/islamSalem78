@@ -82,22 +82,26 @@ Contributed vulnerability reports to **nginx-ui** by 0xJacky through responsible
 
 ---
 
+
 ## Contact
 
 <div align="center">
 
 **Interested in security research, collaboration, or discussing vulnerabilities?**
 
+<br/>
+
 <a href="https://www.linkedin.com/in/islam-salem-5a13a032b">
-  LinkedIn
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp; · &nbsp;
 <a href="https://medium.com/@es0557533">
-  Medium
+  <img src="https://img.shields.io/badge/Medium-Read_Articles-000000?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-&nbsp; · &nbsp;
 <a href="https://tryhackme.com/p/00xxISvxx">
-  TryHackMe
+  <img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
+</a>
+<a href="https://hackerone.com/isl_argent">
+  <img src="https://img.shields.io/badge/HackerOne-Profile-111111?style=for-the-badge&logo=hackerone&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -105,3 +109,4 @@ Contributed vulnerability reports to **nginx-ui** by 0xJacky through responsible
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:003B3B&height=90&section=footer" />
 
 </div>
+
