@@ -87,7 +87,7 @@ Contributed vulnerability reports to **nginx-ui** by 0xJacky through responsible
 
 <div align="center">
 
-**Interested in security research, collaboration, or discussing vulnerabilities?**
+**FOLLOW ME**
 
 <br/>
 
