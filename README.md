@@ -1,4 +1,3 @@
-
 <!-- Islam Mohammed | Security Researcher -->
 
 <div align="center">
@@ -39,13 +38,21 @@ I enjoy investigating security flaws, analyzing root causes, and developing prac
 
 **Published Security Advisories**
 
-Contributed vulnerability reports to **nginx-ui** by 0xJacky through responsible disclosure.
+Vulnerability reports contributed through responsible disclosure.
+
+### nginx-ui · by 0xJacky
 
 | Advisory | Finding | Severity |
 |:---|:---|:---:|
 | [GHSA-hf3h-p3fr-3f2r](https://github.com/0xJacky/nginx-ui/security/advisories/GHSA-hf3h-p3fr-3f2r) | Backup Session Exposure | Moderate |
 | [GHSA-p355-qjwh-8hgm](https://github.com/0xJacky/nginx-ui/security/advisories/GHSA-p355-qjwh-8hgm) | OpenAI API Key Exfiltration | Low |
 | [GHSA-2rjr-44wx-8qpg](https://github.com/0xJacky/nginx-ui/security/advisories/GHSA-2rjr-44wx-8qpg) | JWT Secret Overwrite | Low |
+
+### NetBird · [netbirdio/netbird](https://github.com/netbirdio/netbird/security/advisories?state=published)
+
+| Advisory | Finding | Severity |
+|:---|:---|:---:|
+| [GHSA-hp75-qfqq-74m7](https://github.com/netbirdio/netbird/security/advisories/GHSA-hp75-qfqq-74m7) | Dashboard RDP Client TOFU Certificate Bypass | Moderate |
 
 ---
 
@@ -109,4 +116,3 @@ Contributed vulnerability reports to **nginx-ui** by 0xJacky through responsible
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:003B3B&height=90&section=footer" />
 
 </div>
-
