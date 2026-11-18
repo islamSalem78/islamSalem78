@@ -40,7 +40,7 @@ I enjoy investigating security flaws, analyzing root causes, and developing prac
 
 Vulnerability reports contributed through responsible disclosure.
 
-### nginx-ui · by 0xJacky
+### nginx-ui 
 
 | Advisory | Finding | Severity |
 |:---|:---|:---:|
@@ -48,7 +48,7 @@ Vulnerability reports contributed through responsible disclosure.
 | [GHSA-p355-qjwh-8hgm](https://github.com/0xJacky/nginx-ui/security/advisories/GHSA-p355-qjwh-8hgm) | OpenAI API Key Exfiltration | Low |
 | [GHSA-2rjr-44wx-8qpg](https://github.com/0xJacky/nginx-ui/security/advisories/GHSA-2rjr-44wx-8qpg) | JWT Secret Overwrite | Low |
 
-### NetBird · [netbirdio/netbird](https://github.com/netbirdio/netbird/security/advisories?state=published)
+### NetBird 
 
 | Advisory | Finding | Severity |
 |:---|:---|:---:|
