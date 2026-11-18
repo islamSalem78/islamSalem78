@@ -101,10 +101,10 @@ Vulnerability reports contributed through responsible disclosure.
 <a href="https://www.linkedin.com/in/islam-salem-5a13a032b">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://medium.com/@es0557533">
+<a href="https://medium.com/@isv0x1">
   <img src="https://img.shields.io/badge/Medium-Read_Articles-000000?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-<a href="https://medium.com/@isv0x1">
+<a href="https://tryhackme.com/p/00xxISvxx">
   <img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
 </a>
 <a href="https://hackerone.com/isl_argent">
