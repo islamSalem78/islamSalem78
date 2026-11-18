@@ -104,7 +104,7 @@ Vulnerability reports contributed through responsible disclosure.
 <a href="https://medium.com/@es0557533">
   <img src="https://img.shields.io/badge/Medium-Read_Articles-000000?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-<a href="https://tryhackme.com/p/00xxISvxx">
+<a href="https://medium.com/@isv0x1">
   <img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
 </a>
 <a href="https://hackerone.com/isl_argent">
